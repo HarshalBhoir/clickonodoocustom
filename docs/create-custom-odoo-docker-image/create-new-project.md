@@ -7,7 +7,6 @@ Make a Project Directory and move into it:
 ```text
 mkdir myproject
 cd myproject
-
 ```
 
 Now Create the project structure with corresponding configuration files:
@@ -71,8 +70,6 @@ mkdir addons
 
 Copy and extract any addons you wish to use into the addons folder.
 
------------------------------------------------------
-
 ## Creat a docker-compose file:
 
 ```text
@@ -112,6 +109,4 @@ volumes:
   odoo-web-data:
   odoo-db-data:
 ```
-
-
 

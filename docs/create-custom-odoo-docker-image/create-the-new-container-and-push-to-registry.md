@@ -18,7 +18,7 @@ Once logged in,
 docker commit <imagename> <newimagename>:latest
 ```
 
-or to publish a new container using the existing modified container to 
+or to publish a new container using the existing modified container to
 
 ## dockerhub:
 
