@@ -3,6 +3,9 @@
 
 ![](https://raw.githubusercontent.com/clickonrefresh/clickonodoocustom/blob/a837d1bd8b29b6601e84aff5ec7fa65cec219ea2/docs/.gitbook/assets/copy-of-clickonrefresh-3-.mp4)
 
+![](https://user-images.githubusercontent.com/72121107/114141513-f80c9500-9911-11eb-9903-06538c0a7477.png)
+
+
 # Odoo CE 14.0 with Open HRMS & Full Accounting modules.
 
 ### Python Pandas library preinstalled.
