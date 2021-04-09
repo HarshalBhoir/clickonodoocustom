@@ -1,7 +1,7 @@
 
 ![](https://user-images.githubusercontent.com/72121107/114140979-4b321800-9911-11eb-84ec-9d43023f9e47.mp4)
 
-![](https://github.com/clickonrefresh/clickonodoocustom/blob/a837d1bd8b29b6601e84aff5ec7fa65cec219ea2/docs/.gitbook/assets/copy-of-clickonrefresh-3-.mp4)
+![](https://raw.githubusercontent.com/clickonrefresh/clickonodoocustom/blob/a837d1bd8b29b6601e84aff5ec7fa65cec219ea2/docs/.gitbook/assets/copy-of-clickonrefresh-3-.mp4)
 
 # Odoo CE 14.0 with Open HRMS & Full Accounting modules.
 
