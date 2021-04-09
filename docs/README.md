@@ -2,16 +2,7 @@
 description: Guide
 ---
 
-# Prep
+# Introduction
 
-Clean Docker Environment:
-
-```text
-docker ps -a
-docker system prune -a
-docker-compose down
-docker images -a
-docker network ls
-docker rm <ID>
-```
+This guide will show you how to pull a docker image, modify it, and then push the modified image to your dockerhub registry.
 

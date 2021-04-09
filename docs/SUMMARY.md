@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Prep](README.md)
+* [Introduction](README.md)
 
 ## Create Custom Odoo Docker Image
 
