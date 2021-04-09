@@ -15,7 +15,7 @@ git clone https://github.com/clickonrefresh/clickonodoocustom.git
 ```
 then change into the working directory:
 ```
-cd clickonodoocustom
+cd clickonodoocustom/docker
 ```
 and run:
 ```
