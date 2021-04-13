@@ -7,6 +7,8 @@
 #### This image is a modified version of the latest Odoo v14 official docker image.
 
 by clickonrefresh/countdocula
+
+![DockerHub Image](https://hub.docker.com/repository/docker/countdocula/clickonodoocustom)
 ---------
 
 ## The easiest way to work with this image is to clone my github repo:
